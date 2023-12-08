@@ -8,5 +8,4 @@ for customers and ensure their supply of home shares met travelers’ demand. Ou
 chance to explore how machine learning and predictive analysis impacts our daily lives such as in
 booking a vacation home.
 
-The dataset can be found here: https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/data?select=countries.csv.zip
-10
+The dataset can be found here: https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/data?select=countries.csv.zip10
