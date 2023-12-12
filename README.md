@@ -6,6 +6,6 @@ is constantly looking to tackle. With an increasing number of competitors and an
 how consumers imagine leisure travel, the company’s goal was to improve its recommendation system
 for customers and ensure their supply of home shares met travelers’ demand. Our team took this
 chance to explore how machine learning and predictive analysis impacts our daily lives such as in
-booking a vacation home.
+booking a vacation home. I contributed significantly to the modeling and composing of the report.
 
 The dataset can be found here: https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/data?select=countries.csv.zip10
